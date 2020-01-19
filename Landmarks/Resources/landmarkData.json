@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Adams Humanities (AH)",
+    "category": "Mountains",
+    "city": "San Diego",
+    "state": "AH",
+    "id": 1003,
+    "isFeatured": false,
+    "isFavorite": true,
+    "park": "AH-123",
+    "coordinates": {
+        "longitude": -117.0714,
+      "latitude": 32.7737
+    },
+    "imageName": "ah"
+  },
+  {
+    "name": "Art (ART N/S)",
+    "category": "Mountains",
+    "city": "San Diego",
+    "state": "ART N/S",
+    "id": 1008,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "ART-123, Blick Art Materials",
+    "coordinates": {
+      "longitude": -117.0722,
+      "latitude": 32.7779
+    },
+    "imageName": "art"
+  },
+  {
+    "name": "Communications (C)",
+    "category": "Lakes",
+    "city": "San Diego",
+    "state": "C",
+    "id": 1012,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "C-123",
+    "coordinates": {
+      "longitude": -117.0724,
+      "latitude": 32.7762
+    },
+    "imageName": "communications"
+  },
+  {
+    "name": "Hardy Tower (HT)",
+    "category": "Lakes",
+    "city": "San Diego",
+    "state": "HT",
+    "id": 1004,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "HT-326",
+    "coordinates": {
+        "longitude": -117.0721,
+      "latitude": 32.7771
+    },
+    "imageName": "ht"
+  },
+  {
+    "name": "Hepner Hall (HH)",
+    "category": "Rivers",
+    "city": "San Diego",
+    "state": "HH",
+    "id": 1001,
+    "isFeatured": true,
+    "isFavorite": true,
+    "park": "HH-123, HH-124",
+    "coordinates": {
+      "longitude": -117.0718,
+      "latitude": 32.7764
+    },
+    "imageName": "hh"
+  },
+  {
+    "name": "Life Sciences (LS N/S)",
+    "category": "Lakes",
+    "city": "San Diego",
+    "state": "LS N/S",
+    "id": 1009,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "LS S-123",
+    "coordinates": {
+      "longitude": -117.0714,
+      "latitude": 32.7774
+    },
+    "imageName": "ls"
+  },
+  {
+    "name": "Nastir Hall (NH)",
+    "category": "Lakes",
+    "city": "San Diego",
+    "state": "NH",
+    "id": 1005,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "NH-123",
+    "coordinates": {
+      "longitude": -117.0736,
+      "latitude": 32.7768
+    },
+    "imageName": "nh"
+  },
+  {
+    "name": "Peterson Gym (PG)",
+    "category": "Lakes",
+    "city": "San Diego",
+    "state": "PG",
+    "id": 1010,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "PG-146",
+    "coordinates": {
+      "longitude": -117.0764,
+      "latitude": 32.7742
+    },
+    "imageName": "pg"
+  },
+  {
+    "name": "Engineering and Interdisciplinary Studies (EIS)",
+    "category": "Rivers",
+    "city": "San Diego",
+    "state": "EIS",
+    "id": 1007,
+    "isFeatured": true,
+    "isFavorite": false,
+    "park": "PS-130",
+    "coordinates": {
+      "longitude": -117.0705,
+      "latitude": 32.7770
+    },
+    "imageName": "eis"
+  },
+  {
+    "name": "Physics (P)",
+    "category": "Rivers",
+    "city": "San Diego",
+    "state": "P",
+    "id": 1011,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "P-245",
+    "coordinates": {
+      "longitude": -117.0703,
+      "latitude": 32.7765
+    },
+    "imageName": "physics"
+  },
+  {
+    "name": "Storm Hall West (SHW)",
+    "category": "Mountains",
+    "city": "San Diego",
+    "state": "SHW",
+    "id": 1006,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "SHW-111",
+    "coordinates": {
+      "longitude": -117.0740,
+      "latitude": 32.7774
+    },
+    "imageName": "shw"
+  },
+  {
+    "name": "Student Services West (SSW)",
+    "category": "Lakes",
+    "city": "San Diego",
+    "state": "SSW",
+    "id": 1002,
+    "isFeatured": false,
+    "isFavorite": false,
+    "park": "SSW-2500",
+    "coordinates": {
+      "longitude": -117.0695,
+      "latitude": 32.775
+    },
+    "imageName": "ssw"
+  }
+]
